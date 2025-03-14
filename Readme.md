@@ -167,5 +167,3 @@ docker-compose -f docker-compose-promtail.yml up -d
 
 
 연동이 정상적으로 완료되었다면, [Explore] >> [Logs] 에서 로그 확인이 가능합니다.
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ae115e03-70a8-424f-a8e1-4ecf247ca623/7daab381-21de-49c0-ad92-59d71a2cbbad/image.png)
