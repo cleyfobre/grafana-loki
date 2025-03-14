@@ -165,7 +165,6 @@ docker-compose -f docker-compose-promtail.yml up -d
 > 
 > - http://loki:3100
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ae115e03-70a8-424f-a8e1-4ecf247ca623/adcf43f5-332c-4fc3-9a55-3d2d01909f91/image.png)
 
 연동이 정상적으로 완료되었다면, [Explore] >> [Logs] 에서 로그 확인이 가능합니다.
 
