@@ -1,6 +1,3 @@
-<aside>
-💁🏻
-
 구축은 순서대로 하시면 됩니다.
 
 1. Docker 설치
@@ -9,17 +6,6 @@
 3. docker-compose 파일 작성
 4. promtail 설정 파일 작성
 5. 컨테이너 실행
-</aside>
-
-## stage 서버
-
-1. 구조
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ae115e03-70a8-424f-a8e1-4ecf247ca623/55f6146c-ff95-47eb-bdfc-0496a8d7eca1/image.png)
-
-1. 계정
-    1. admin / admin1!
-    2. 각자 회사 이메일 / 1234 (각자 비밀번호 변경)
 
 ## Docker 설치
 
